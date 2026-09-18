@@ -1,0 +1,14 @@
+# 모델 구현 전 환경 명세. 버전은 재현성 확보 시 고정한다.
+pandas
+polars
+pyarrow
+numpy
+pyyaml
+scikit-learn
+lightgbm
+simpy
+scipy
+ortools
+networkx
+geopandas
+jupyterlab

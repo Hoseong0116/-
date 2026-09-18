@@ -1,0 +1,7 @@
+﻿year,existing_calltaxi,existing_ud,planned_ud,additional_ud,policy_target,budget,source_name,source_url,source_type,status,confidence,note
+2021,632,,,,운영대수,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,
+2022,662,,,,운영대수,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,
+2023,692,,,,운영대수,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,
+2024,782,,,,운영대수,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,
+2025,854,,,,법정 569대의 151%; 평균대기 30분대,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,
+2026,854,12,,,7~12월 시범 후 확대 검토,,서울시 전국 최초 UD택시 시범운영,https://scpm.seoul.go.kr/,PUBLIC_OFFICIAL,부분확보,A/B,calltaxi 854는 2025 유지가정; 확정 확대대수·예산 미공개

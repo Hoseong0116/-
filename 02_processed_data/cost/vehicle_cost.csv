@@ -1,0 +1,4 @@
+﻿﻿vehicle,cost_item,value,unit,base_year,accounting_entity,detail_condition,source_name,source_url,source_type,analysis_use,status,confidence,note
+기아 PV5 WAV Basic Long Range,purchase_price,51600000,원/대,2026,택시회사/구매주체,"세제혜택 후 시작가, 옵션·보조금 전",기아 PV5 WAV 공식 제원·가격,https://www.kia.com/kr/vehicles/pv5-wav/specification,PUBLIC_OFFICIAL,UD 자본비,확보,A,
+기아 PV5 WAV,subsidy,,원/대,2026,국가·서울시→구매주체,WAV 택시 확정액,무공해차 통합누리집 보조금 조회,https://ev.or.kr/nportal/buySupprt/initSubsidyPaymentCheckAction.do,PUBLIC_OFFICIAL,실구매가,조사중,,공식 세부 확정액 미확보
+서울 장애인콜택시,purchase_and_conversion,,원/대,,서울시,본체·특장 분리,서울시설공단 장애인콜택시,https://www.sisul.or.kr/open_content/calltaxi/,PUBLIC_OFFICIAL,감가상각,정보공개대기,,

@@ -1,0 +1,12 @@
+﻿input,path,rows,status,needed_for,next_step
+2025 장애인콜택시 호출·배차 로그,01_raw_data/disabled_taxi/,0,BLOCKED_MISSING,"시간별 행정동 수요, S0/S1 동일 요청, 실제 대기시간 검증",팀원 파일 수령; 요청ID·시각·행정동 코드·취소 상태 확인
+2025 기준 행정동 코드·경계,01_raw_data/spatial/,0,BLOCKED_MISSING,수요 공간 집계와 그래프·OD 키,팀원 코드표·경계 수령; 코드 기준일 및 변경 이력 확인
+시간대별 OD 이동시간,01_raw_data/spatial/,0,BLOCKED_MISSING,픽업·주행·재배치 시간,팀원 OD 파일 수령; 행정동/시간 키·단위 확인
+기존 장애인콜택시 차량 및 가동·시작 위치,02_processed_data/vehicle/fleet_master.csv,8,PARTIAL_AGGREGATE_ONLY,854대 차량별 DES 초기 상태 및 가동률,2026 fleet·차종별 대수·차고지·근무교대 자료 필요
+UD 12대 실제 운행·충전·정산 로그,01_raw_data/ud_taxi/templates/ud_operation_master_template.csv,0,BLOCKED_TEMPLATE_ONLY,S0 보정·수익·SOC/충전 파라미터,팀원 또는 운영사 실제 차량·일/호출 로그 수령
+일반택시 시간·지역 영업실적,02_processed_data/cost/taxi_revenue_hourly.csv,0,BLOCKED_TEMPLATE_ONLY,일반영업 기회비용과 수입,시간·요일·행정동별 건수/매출/공차/가용차량시간 수령
+PV5 WAV 공인 제원,02_processed_data/model_inputs/pv5_vehicle_inputs.csv,1,PARTIAL_SPEC_ONLY,전비와 nominal SOC 범위,실전비·사용가능 배터리·충전곡선 또는 보수적 감도분석
+서울시 소유 충전기 후보 및 운영시간,02_processed_data/model_inputs/charger_inventory_prepared.csv,433,PREPARED_CANDIDATE_NOT_ROUTABLE,충전 가능 시간·출력 후보,좌표·최신 가동상태·실제 사업자·차량 높이/진입·AC규격 확인
+사업자별 공시 회원 충전요금,02_processed_data/cost/electricity_price_by_operator.csv,505,REFERENCE_ONLY_NO_SITE_JOIN,전력비 민감도,실제 충전사업자/회원·로밍·세션 청구금액 필요
+기존 fleet 탄소계수 및 전력계수,02_processed_data/model_inputs/carbon_factors_review.csv,9,OLDER_PROXY_APPROVAL_REQUIRED,CO2e 계산,최신 적용연도 원문 확인; 구자료 사용 전 사용자 승인
+S0/S1 공통 운영규칙,02_processed_data/model_inputs/scenario_core.csv,2,PARTIAL_2026_FLEET_ASSUMED,시나리오 비교,2026 기존 fleet 대수·S0 100건 완료/전환 세부규칙 확인

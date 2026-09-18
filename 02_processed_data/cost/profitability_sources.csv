@@ -1,0 +1,13 @@
+﻿source_id,title,url,retrieved_date,status,note
+S01,서울시 UD택시 시범운영,https://www.seoul.go.kr/news/news_report.do?nttNo=460523&srchCtgry=467,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S02,서울 중형택시 현재 요금,https://news.seoul.go.kr/traffic/archives/1659,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S03,장애인콜택시 이용기준과 요금,https://sisul.or.kr/open_content/calltaxi/introduce/receipt.jsp,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S04,사업자별 전기차 충전요금,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,2026-09-17,브라우저 표 전사 검증,HTML은 보안 스크립트로 본문 없음. 별도 회원요금 CSV 101행을 브라우저 표시값과 해시 대조. 공식 배포 CSV가 아님.
+S05,서울 LPG 지역별 평균가격,https://www.opinet.co.kr/user/dopvsavsel/dopVsAreaselSelect.do,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S06,주유소 지역별 평균가격,https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgSelect.do,2026-09-17,미채택,전국 제품별 가격 페이지. 서울값은 S12 사용.
+S07,PV5 WAV 공식 제원,https://www.kia.com/kr/vehicles/pv5-wav/specification,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S08,서울 빅데이터캠퍼스 데이터 안내,https://bigdata.seoul.go.kr/cnts.do?r_id=P210,2026-09-17,경로 안내만,최신 영업 원시자료 자체 미확보. 소개/신청 경로만 저장.
+S09,서울교통빅데이터플랫폼,https://t-data.seoul.go.kr/,2026-09-17,경로 안내만,최신 영업 원시자료 자체 미확보. 소개/신청 경로만 저장.
+S10,서울 택시 수요예측 선행연구,https://www.jkst.or.kr/articles/xml/91v9/,2026-09-17,구자료 수치 미채택,2025년 논문이나 분석 원자료 2023년. 수치 사용 전 사용자 승인 필요.
+S11,UD택시 요금관련 공단 답변,https://sisul.or.kr/open_content/calltaxi/qna/qnaMsgDetail.do?qnaid=QNAS20260714000005,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장
+S12,서울 경유 지역별 평균가격,https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaView.do,2026-09-17,값 확인,공식 웹페이지 원본 HTML 및 텍스트 저장

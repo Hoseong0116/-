@@ -1,0 +1,9 @@
+﻿vehicle_type,model,model_year,fuel,fleet_count,fuel_efficiency_km_per_l,passenger_capacity,companion_limit,purchase_price,conversion_cost,replacement_year,source,base_year,region,source_url,source_type,status,confidence,note
+장애인콜택시 전체,전체 차종 합계,혼합,혼합,854,,,,,,,서울시 장애인콜택시 150% 확보 추진(2025-05-15),2025,서울,https://mediahub.seoul.go.kr/archives/2014211,PUBLIC_OFFICIAL,확보,A,법정기준 569대의 151%. 차종·연식 cohort는 미공개.
+장애인콜택시,기아 카니발,미공개,,,,,,,,,서울시설공단 장애인콜택시,,서울,https://www.sisul.or.kr/open_content/calltaxi/,PUBLIC_OFFICIAL,정보공개대기,,"차종×연식×연료, 대수, 가격, 개조비, 실제연비 정보공개 필요"
+장애인콜택시,현대 그랜드 스타렉스,미공개,,,,,,,,,서울시설공단 장애인콜택시,,서울,https://www.sisul.or.kr/open_content/calltaxi/,PUBLIC_OFFICIAL,정보공개대기,,"차종×연식×연료, 대수, 가격, 개조비, 실제연비 정보공개 필요"
+장애인콜택시,현대 스타리아,미공개,,,,,,,,,서울시설공단 장애인콜택시,,서울,https://www.sisul.or.kr/open_content/calltaxi/,PUBLIC_OFFICIAL,정보공개대기,,"차종×연식×연료, 대수, 가격, 개조비, 실제연비 정보공개 필요"
+장애인콜택시,카니발/스타리아,미공개,미확인,691,,,,,,,사용자 전달 장애인콜택시 현황,2026,서울,,USER_PROVIDED,OBSERVED_DATA,C,"2026년 1월 기준. 원 출처·기관 미확인; 원문 표의 병합 구조에 따라 장애인콜택시 691대로 해석"
+법인특장택시,스타리아,미공개,미확인,126,,,,,,,사용자 전달 장애인콜택시 현황,2026,서울,,USER_PROVIDED,OBSERVED_DATA,C,"2026년 1월 기준. 원 출처·기관 미확인; 원문 표의 병합 구조에 따라 법인특장택시 126대로 해석"
+장애인버스,솔라티,미공개,미확인,4,,,,,,,사용자 전달 장애인콜택시 현황,2026,서울,,USER_PROVIDED,OBSERVED_DATA,C,"2026년 1월 기준. 원 출처·기관 미확인"
+장애인버스,버스(우등유니),미공개,미확인,3,,,,,,,사용자 전달 장애인콜택시 현황,2026,서울,,USER_PROVIDED,OBSERVED_DATA,C,"2026년 1월 기준. 원 출처·기관 미확인"

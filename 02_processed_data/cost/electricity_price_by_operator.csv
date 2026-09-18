@@ -1,0 +1,506 @@
+﻿operator,min_power_kw_inclusive,max_power_kw_exclusive,price_per_kwh,unit,tariff_type,updated_date,retrieved_date,source_id,source_url,status,note
+기후에너지환경부,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+기후에너지환경부,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+기후에너지환경부,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+기후에너지환경부,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+기후에너지환경부,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+E1,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+E1,30,50,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+E1,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+E1,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+E1,200,,347.2,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS차지비,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS차지비,30,50,307.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS차지비,50,100,325.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS차지비,100,200,345.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS차지비,200,,345.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS칼텍스,0,30,,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS칼텍스,30,50,,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS칼텍스,50,100,347.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS칼텍스,100,200,347.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+GS칼텍스,200,,,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+KH에너지,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+KH에너지,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+KH에너지,50,100,316.3,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+KH에너지,100,200,338.4,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+KH에너지,200,,381.9,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+LG유플러스 볼트업,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-01,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+LG유플러스 볼트업,30,50,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-01,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+LG유플러스 볼트업,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-07-01,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+LG유플러스 볼트업,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-07-01,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+LG유플러스 볼트업,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-07-01,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+NICE인프라,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+NICE인프라,30,50,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+NICE인프라,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+NICE인프라,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+NICE인프라,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SG생활안전,0,30,315.0,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SG생활안전,30,50,315.0,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SG생활안전,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SG생활안전,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SG생활안전,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK렌터카,0,30,310.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK렌터카,30,50,310.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK렌터카,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK렌터카,100,200,380.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK렌터카,200,,380.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK시그넷,0,30,,KRW/kWh,사업자 회원 공시요금,2026-09-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK시그넷,30,50,,KRW/kWh,사업자 회원 공시요금,2026-09-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK시그넷,50,100,,KRW/kWh,사업자 회원 공시요금,2026-09-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK시그넷,100,200,347.0,KRW/kWh,사업자 회원 공시요금,2026-09-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK시그넷,200,,347.0,KRW/kWh,사업자 회원 공시요금,2026-09-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK에너지,0,30,286.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK에너지,30,50,286.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK에너지,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK에너지,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK에너지,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK일렉링크,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK일렉링크,30,50,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK일렉링크,50,100,391.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK일렉링크,100,200,391.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+SK일렉링크,200,,391.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+가온건설,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+가온건설,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+가온건설,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+가온건설,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+가온건설,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+광성계측기,0,30,245.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+광성계측기,30,50,245.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+광성계측기,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+광성계측기,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+광성계측기,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그리드위즈,0,30,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그리드위즈,30,50,305.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그리드위즈,50,100,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그리드위즈,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그리드위즈,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그린전력,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그린전력,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그린전력,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그린전력,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+그린전력,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+넥씽,0,30,300.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+넥씽,30,50,300.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+넥씽,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+넥씽,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+넥씽,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+농협경제지주 신재생에너지센터,0,30,274.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+농협경제지주 신재생에너지센터,30,50,287.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+농협경제지주 신재생에너지센터,50,100,307.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+농협경제지주 신재생에너지센터,100,200,327.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+농협경제지주 신재생에너지센터,200,,327.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴로모빌리티,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-16,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴로모빌리티,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-16,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴로모빌리티,50,100,324.0,KRW/kWh,사업자 회원 공시요금,2026-03-16,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴로모빌리티,100,200,324.0,KRW/kWh,사업자 회원 공시요금,2026-03-16,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴로모빌리티,200,,324.0,KRW/kWh,사업자 회원 공시요금,2026-03-16,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴텍솔루션,0,30,270.0,KRW/kWh,사업자 회원 공시요금,2026-08-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴텍솔루션,30,50,270.0,KRW/kWh,사업자 회원 공시요금,2026-08-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴텍솔루션,50,100,280.0,KRW/kWh,사업자 회원 공시요금,2026-08-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴텍솔루션,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+뉴텍솔루션,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대도엘앤씨,0,30,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대도엘앤씨,30,50,370.0,KRW/kWh,사업자 회원 공시요금,2026-08-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대도엘앤씨,50,100,380.0,KRW/kWh,사업자 회원 공시요금,2026-08-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대도엘앤씨,100,200,420.0,KRW/kWh,사업자 회원 공시요금,2026-08-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대도엘앤씨,200,,450.0,KRW/kWh,사업자 회원 공시요금,2026-08-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대성물류건설,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-04-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대성물류건설,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-04-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대성물류건설,50,100,,KRW/kWh,사업자 회원 공시요금,2026-04-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대성물류건설,100,200,,KRW/kWh,사업자 회원 공시요금,2026-04-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대성물류건설,200,,,KRW/kWh,사업자 회원 공시요금,2026-04-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대한송유관공사,0,30,490.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대한송유관공사,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대한송유관공사,50,100,324.4,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대한송유관공사,100,200,300.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+대한송유관공사,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+동양이엔피,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+동양이엔피,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+동양이엔피,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+동양이엔피,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+동양이엔피,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+두루스코이브이,0,30,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+두루스코이브이,30,50,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+두루스코이브이,50,100,340.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+두루스코이브이,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+두루스코이브이,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+레드이엔지,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+레드이엔지,30,50,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+레드이엔지,50,100,400.0,KRW/kWh,사업자 회원 공시요금,2026-09-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+레드이엔지,100,200,,KRW/kWh,사업자 회원 공시요금,2026-09-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+레드이엔지,200,,,KRW/kWh,사업자 회원 공시요금,2026-09-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+롯데이노베이트,0,30,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+롯데이노베이트,30,50,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+롯데이노베이트,50,100,360.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+롯데이노베이트,100,200,380.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+롯데이노베이트,200,,380.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+리셀파워,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+리셀파워,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+리셀파워,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+리셀파워,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+리셀파워,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+매니지온,0,30,230.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+매니지온,30,50,230.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+매니지온,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+매니지온,100,200,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+매니지온,200,,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+메가볼트,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+메가볼트,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+메가볼트,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+메가볼트,100,200,,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+메가볼트,200,,,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모던텍,0,30,324.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모던텍,30,50,324.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모던텍,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모던텍,100,200,324.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모던텍,200,,324.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모트렉스이브이,0,30,250.0,KRW/kWh,사업자 회원 공시요금,2026-05-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모트렉스이브이,30,50,300.0,KRW/kWh,사업자 회원 공시요금,2026-05-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모트렉스이브이,50,100,300.0,KRW/kWh,사업자 회원 공시요금,2026-05-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모트렉스이브이,100,200,320.0,KRW/kWh,사업자 회원 공시요금,2026-05-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+모트렉스이브이,200,,320.0,KRW/kWh,사업자 회원 공시요금,2026-05-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+바이온에버,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+바이온에버,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+바이온에버,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+바이온에버,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+바이온에버,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+보타리에너지,0,30,286.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+보타리에너지,30,50,286.7,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+보타리에너지,50,100,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+보타리에너지,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+보타리에너지,200,,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+브라이트에너지파트너스,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+브라이트에너지파트너스,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+브라이트에너지파트너스,50,100,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+브라이트에너지파트너스,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+브라이트에너지파트너스,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+블루네트웍스,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+블루네트웍스,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+블루네트웍스,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+블루네트웍스,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+블루네트웍스,200,,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울시,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울시,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울시,50,100,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울시,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울시,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울씨엔지,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울씨엔지,30,50,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울씨엔지,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-09-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울씨엔지,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-09-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서울씨엔지,200,,350.0,KRW/kWh,사업자 회원 공시요금,2026-09-03,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서현에너지,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서현에너지,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서현에너지,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서현에너지,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+서현에너지,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-07-30,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+선광시스템,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+선광시스템,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+선광시스템,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+선광시스템,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+선광시스템,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+소프트베리,0,30,297.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+소프트베리,30,50,297.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+소프트베리,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+소프트베리,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+소프트베리,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스칼라데이터,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스칼라데이터,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스칼라데이터,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스칼라데이터,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스칼라데이터,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스타코프,0,30,294.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스타코프,30,50,294.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스타코프,50,100,340.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스타코프,100,200,340.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+스타코프,200,,340.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+신세계아이앤씨,0,30,,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+신세계아이앤씨,30,50,,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+신세계아이앤씨,50,100,324.0,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+신세계아이앤씨,100,200,,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+신세계아이앤씨,200,,,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아론,0,30,290.0,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아론,30,50,290.0,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아론,50,100,,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아론,100,200,,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아론,200,,,KRW/kWh,사업자 회원 공시요금,2026-05-08,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아마노코리아,0,30,276.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아마노코리아,30,50,276.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아마노코리아,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아마노코리아,100,200,330.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아마노코리아,200,,330.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아우토크립트,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아우토크립트,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아우토크립트,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아우토크립트,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아우토크립트,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이마켓코리아,0,30,310.0,KRW/kWh,사업자 회원 공시요금,2026-08-20,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이마켓코리아,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-20,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이마켓코리아,50,100,330.0,KRW/kWh,사업자 회원 공시요금,2026-08-20,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이마켓코리아,100,200,324.4,KRW/kWh,사업자 회원 공시요금,2026-08-20,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이마켓코리아,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-20,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이파킹,0,30,299.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이파킹,30,50,345.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이파킹,50,100,345.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이파킹,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아이파킹,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아하,0,30,260.0,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아하,30,50,260.0,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아하,50,100,,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아하,100,200,330.0,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+아하,200,,330.0,KRW/kWh,사업자 회원 공시요금,2026-04-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에바,0,30,290.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에바,30,50,290.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에바,50,100,,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에바,100,200,319.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에바,200,,319.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에버온,0,30,296.0,KRW/kWh,사업자 회원 공시요금,2026-04-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에버온,30,50,296.0,KRW/kWh,사업자 회원 공시요금,2026-04-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에버온,50,100,296.0,KRW/kWh,사업자 회원 공시요금,2026-04-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에버온,100,200,296.0,KRW/kWh,사업자 회원 공시요금,2026-04-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에버온,200,,296.0,KRW/kWh,사업자 회원 공시요금,2026-04-15,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스에스기전,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스에스기전,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스에스기전,50,100,300.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스에스기전,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스에스기전,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스이랩,0,30,230.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스이랩,30,50,230.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스이랩,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스이랩,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+에스이랩,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엔비플러스,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엔비플러스,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엔비플러스,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엔비플러스,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엔비플러스,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엘에스이링크,0,30,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엘에스이링크,30,50,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엘에스이링크,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엘에스이링크,100,200,319.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+엘에스이링크,200,,319.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+온스테이션,0,30,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+온스테이션,30,50,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+온스테이션,50,100,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+온스테이션,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+온스테이션,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+왕산전기,0,30,,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+왕산전기,30,50,,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+왕산전기,50,100,380.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+왕산전기,100,200,380.0,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+왕산전기,200,,,KRW/kWh,사업자 회원 공시요금,2026-09-09,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+우진산전,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-26,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+우진산전,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-26,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+우진산전,50,100,,KRW/kWh,사업자 회원 공시요금,2026-08-26,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+우진산전,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-26,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+우진산전,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-26,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+유플러스아이티,0,30,290.0,KRW/kWh,사업자 회원 공시요금,2026-08-21,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+유플러스아이티,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-21,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+유플러스아이티,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-21,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+유플러스아이티,100,200,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-21,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+유플러스아이티,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-21,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이루씨,0,30,292.0,KRW/kWh,사업자 회원 공시요금,2026-03-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이루씨,30,50,292.0,KRW/kWh,사업자 회원 공시요금,2026-03-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이루씨,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이루씨,100,200,340.0,KRW/kWh,사업자 회원 공시요금,2026-03-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이루씨,200,,340.0,KRW/kWh,사업자 회원 공시요금,2026-03-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이시스,0,30,310.0,KRW/kWh,사업자 회원 공시요금,2026-05-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이시스,30,50,324.0,KRW/kWh,사업자 회원 공시요금,2026-05-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이시스,50,100,360.0,KRW/kWh,사업자 회원 공시요금,2026-05-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이시스,100,200,380.0,KRW/kWh,사업자 회원 공시요금,2026-05-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이시스,200,,380.0,KRW/kWh,사업자 회원 공시요금,2026-05-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이씨코리아,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이씨코리아,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이씨코리아,50,100,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이씨코리아,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이브이씨코리아,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이앤에이치에너지,0,30,294.0,KRW/kWh,사업자 회원 공시요금,2026-06-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이앤에이치에너지,30,50,294.0,KRW/kWh,사업자 회원 공시요금,2026-06-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이앤에이치에너지,50,100,,KRW/kWh,사업자 회원 공시요금,2026-06-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이앤에이치에너지,100,200,324.4,KRW/kWh,사업자 회원 공시요금,2026-06-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이앤에이치에너지,200,,324.4,KRW/kWh,사업자 회원 공시요금,2026-06-25,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이에스앤에이치,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이에스앤에이치,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-07-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이에스앤에이치,50,100,,KRW/kWh,사업자 회원 공시요금,2026-07-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이에스앤에이치,100,200,,KRW/kWh,사업자 회원 공시요금,2026-07-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이에스앤에이치,200,,,KRW/kWh,사업자 회원 공시요금,2026-07-02,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이엘일렉트릭,0,30,260.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이엘일렉트릭,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이엘일렉트릭,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이엘일렉트릭,100,200,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이엘일렉트릭,200,,340.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이웨이브,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이웨이브,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이웨이브,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이웨이브,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이웨이브,200,,347.2,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지차저,0,30,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지차저,30,50,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지차저,50,100,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지차저,100,200,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지차저,200,,289.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지트로닉스,0,30,294.3,KRW/kWh,사업자 회원 공시요금,2026-06-17,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지트로닉스,30,50,306.0,KRW/kWh,사업자 회원 공시요금,2026-06-17,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지트로닉스,50,100,324.4,KRW/kWh,사업자 회원 공시요금,2026-06-17,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지트로닉스,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-06-17,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이지트로닉스,200,,391.9,KRW/kWh,사업자 회원 공시요금,2026-06-17,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이카플러그,0,30,275.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이카플러그,30,50,275.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이카플러그,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이카플러그,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+이카플러그,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인천국제공항공사,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인천국제공항공사,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인천국제공항공사,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인천국제공항공사,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인천국제공항공사,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-07-27,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인큐버스,0,30,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인큐버스,30,50,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인큐버스,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인큐버스,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+인큐버스,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+일렉트리,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+일렉트리,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+일렉트리,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+일렉트리,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+일렉트리,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+제주전기자동차서비스,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+제주전기자동차서비스,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+제주전기자동차서비스,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+제주전기자동차서비스,100,200,340.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+제주전기자동차서비스,200,,340.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+차밥스,0,30,300.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+차밥스,30,50,300.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+차밥스,50,100,400.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+차밥스,100,200,400.0,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+차밥스,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-05,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+채비,0,30,275.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+채비,30,50,315.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+채비,50,100,410.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+채비,100,200,430.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+채비,200,,430.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+캐스트프로,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+캐스트프로,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+캐스트프로,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+캐스트프로,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+캐스트프로,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+쿨사인,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+쿨사인,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+쿨사인,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+쿨사인,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+쿨사인,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+크로커스,0,30,242.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+크로커스,30,50,242.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+크로커스,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+크로커스,100,200,330.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+크로커스,200,,330.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+클린일렉스,0,30,287.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+클린일렉스,30,50,287.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+클린일렉스,50,100,317.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+클린일렉스,100,200,339.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+클린일렉스,200,,382.0,KRW/kWh,사업자 회원 공시요금,2026-08-11,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+타디스테크놀로지,0,30,317.0,KRW/kWh,사업자 회원 공시요금,2026-07-29,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+타디스테크놀로지,30,50,324.0,KRW/kWh,사업자 회원 공시요금,2026-07-29,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+타디스테크놀로지,50,100,324.0,KRW/kWh,사업자 회원 공시요금,2026-07-29,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+타디스테크놀로지,100,200,347.0,KRW/kWh,사업자 회원 공시요금,2026-07-29,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+타디스테크놀로지,200,,347.0,KRW/kWh,사업자 회원 공시요금,2026-07-29,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+태성콘텍,0,30,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+태성콘텍,30,50,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+태성콘텍,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+태성콘텍,100,200,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+태성콘텍,200,,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+티맵,0,30,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+티맵,30,50,350.0,KRW/kWh,사업자 회원 공시요금,2026-08-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+티맵,50,100,420.0,KRW/kWh,사업자 회원 공시요금,2026-08-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+티맵,100,200,420.0,KRW/kWh,사업자 회원 공시요금,2026-08-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+티맵,200,,420.0,KRW/kWh,사업자 회원 공시요금,2026-08-24,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+파워큐브,0,30,319.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+파워큐브,30,50,319.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+파워큐브,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+파워큐브,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+파워큐브,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+펌프킨,0,30,324.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+펌프킨,30,50,324.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+펌프킨,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+펌프킨,100,200,347.1,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+펌프킨,200,,347.1,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+플러그링크,0,30,292.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+플러그링크,30,50,322.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+플러그링크,50,100,322.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+플러그링크,100,200,345.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+플러그링크,200,,345.0,KRW/kWh,사업자 회원 공시요금,2026-07-31,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+피라인모터스,0,30,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+피라인모터스,30,50,250.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+피라인모터스,50,100,300.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+피라인모터스,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+피라인모터스,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국EV충전서비스센터,0,30,400.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국EV충전서비스센터,30,50,400.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국EV충전서비스센터,50,100,400.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국EV충전서비스센터,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국EV충전서비스센터,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국동서발전,0,30,,KRW/kWh,사업자 회원 공시요금,2026-07-22,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국동서발전,30,50,,KRW/kWh,사업자 회원 공시요금,2026-07-22,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국동서발전,50,100,313.0,KRW/kWh,사업자 회원 공시요금,2026-07-22,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국동서발전,100,200,,KRW/kWh,사업자 회원 공시요금,2026-07-22,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국동서발전,200,,,KRW/kWh,사업자 회원 공시요금,2026-07-22,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국자동차환경협회,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-08-04,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국자동차환경협회,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-08-04,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국자동차환경협회,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-08-04,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국자동차환경협회,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-08-04,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국자동차환경협회,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-08-04,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차인프라기술,0,30,288.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차인프라기술,30,50,288.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차인프라기술,50,100,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차인프라기술,100,200,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차인프라기술,200,,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차충전서비스,0,30,298.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차충전서비스,30,50,298.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차충전서비스,50,100,398.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차충전서비스,100,200,398.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전기차충전서비스,200,,398.0,KRW/kWh,사업자 회원 공시요금,2026-08-18,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전력공사,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전력공사,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-09-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전력공사,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-09-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전력공사,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-09-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국전력공사,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-09-10,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국홈충전,0,30,330.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국홈충전,30,50,330.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국홈충전,50,100,380.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국홈충전,100,200,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한국홈충전,200,,,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한마음장애인복지회,0,30,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한마음장애인복지회,30,50,324.4,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한마음장애인복지회,50,100,347.2,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한마음장애인복지회,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한마음장애인복지회,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한솔엠에스,0,30,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한솔엠에스,30,50,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한솔엠에스,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한솔엠에스,100,200,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한솔엠에스,200,,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한화솔루션,0,30,283.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한화솔루션,30,50,283.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한화솔루션,50,100,,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한화솔루션,100,200,352.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+한화솔루션,200,,352.0,KRW/kWh,사업자 회원 공시요금,2026-03-13,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대엔지니어링,0,30,290.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대엔지니어링,30,50,290.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대엔지니어링,50,100,350.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대엔지니어링,100,200,350.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대엔지니어링,200,,390.0,KRW/kWh,사업자 회원 공시요금,2026-09-07,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대자동차,0,30,,KRW/kWh,사업자 회원 공시요금,2026-07-28,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대자동차,30,50,,KRW/kWh,사업자 회원 공시요금,2026-07-28,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대자동차,50,100,,KRW/kWh,사업자 회원 공시요금,2026-07-28,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대자동차,100,200,460.0,KRW/kWh,사업자 회원 공시요금,2026-07-28,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현대자동차,200,,,KRW/kWh,사업자 회원 공시요금,2026-07-28,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공시없음,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현승,0,30,295.0,KRW/kWh,사업자 회원 공시요금,2026-09-14,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현승,30,50,307.2,KRW/kWh,사업자 회원 공시요금,2026-09-14,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현승,50,100,325.6,KRW/kWh,사업자 회원 공시요금,2026-09-14,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현승,100,200,348.4,KRW/kWh,사업자 회원 공시요금,2026-09-14,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+현승,200,,393.1,KRW/kWh,사업자 회원 공시요금,2026-09-14,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+휴맥스이브이,0,30,280.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+휴맥스이브이,30,50,280.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+휴맥스이브이,50,100,320.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+휴맥스이브이,100,200,340.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.
+휴맥스이브이,200,,340.0,KRW/kWh,사업자 회원 공시요금,2026-08-06,2026-09-17,S04,https://ev.or.kr/nportal/evcarInfo/initEvcarChargePriceV2.do,공개값 확인,실제 사이트/회원카드/로밍/계약조건 확인 후 적용. 커넥터 호환성과 요금은 별도. 갱신일은 시행일 아님.

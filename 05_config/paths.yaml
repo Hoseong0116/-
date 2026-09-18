@@ -1,0 +1,6 @@
+# All paths are relative to this project root.
+project_root: .
+raw_data: 01_raw_data
+processed_data: 02_processed_data
+reference: 00_reference
+outputs: 06_outputs

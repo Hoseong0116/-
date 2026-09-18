@@ -1,0 +1,20 @@
+{
+  "raw_charger_rows": 433,
+  "published_clean_rows": 432,
+  "seoul_raw_rows": 429,
+  "model_candidate_rows": 427,
+  "excluded_ac3": 1,
+  "outside_seoul": 4,
+  "charger_type_power_conflict": 1,
+  "chargers_open_24h": 374,
+  "tariff_rows": 505,
+  "hourly_observed_rows": 0,
+  "ud_observed_rows": 0,
+  "charger_connector_counts": {
+    "AC완속": 73,
+    "DC콤보": 349,
+    "DC차데모+AC3상+DC콤보": 4,
+    "DC차데모+DC콤보": 6,
+    "AC3상": 1
+  }
+}

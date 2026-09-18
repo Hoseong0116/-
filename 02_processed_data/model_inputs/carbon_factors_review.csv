@@ -1,0 +1,10 @@
+﻿variable_name,value,unit,base_year,original_status,model_status,note,source_url
+diesel_co2_per_liter,2.60832,kgCO2/L,공식 지침,부분확보,SOURCE_SCOPE_REVIEW,직접 CO2; CH4/N2O 제외,https://www.gir.go.kr/
+automotive_lpg_co2_per_liter,1.59643,kgCO2/L,공식 지침,부분확보,SOURCE_SCOPE_REVIEW,LPG 혼합비·발열량 민감도,https://www.gir.go.kr/
+electricity_emission_factor_selected,0.4173,kgCO2e/kWh,2023,확보,APPROVAL_REQUIRED_OLDER_PROXY,원문 세부 적용범위 재확인 권장,https://www.gir.go.kr/
+pv5_wav_ev_emission_selected,0.0948409091,kgCO2e/km,2023/2026,확보,APPROVAL_REQUIRED_OLDER_PROXY,충전손실·LCA 제외,https://www.gir.go.kr/ | https://www.kia.com/kr/vehicles/pv5-wav/specification
+carnival_ice_emission,0.147,kgCO2/km,2023 인증차량,추정 적용,APPROVAL_REQUIRED_OLDER_PROXY,일반 차량 인증값; 서울 휠체어 특장차 실운행값 아님; 연식·연료 확인 시 교체,https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_4thcarnival.pdf
+grand_starex_ice_emission,0.213,kgCO2/km,2020 전후 인증차량,추정 적용,APPROVAL_REQUIRED_OLDER_PROXY,유사 특장차 인증값; 휠체어 특장형 인증값 아님; 연식·연료 확인 시 교체,https://www.hyundai.com/content/dam/hyundai/kr/ko/data/vehicles/price/grandstarex-special-vehicle-price.pdf
+staria_ice_emission,0.171,kgCO2/km,2023 인증차량,추정 적용,APPROVAL_REQUIRED_OLDER_PROXY,디젤 가정; 일반 차량 인증값; 서울 휠체어 특장차 실운행값 아님,https://www.hyundai.com/contents/repn-car/catalog/staria-price.pdf
+staria_lpg_ice_emission_alternative,0.197,kgCO2/km,2023 인증차량,추정 적용,APPROVAL_REQUIRED_OLDER_PROXY,스타리아 연료가 LPG로 확인된 경우 기본값 0.171 대신 사용,https://www.hyundai.com/contents/repn-car/catalog/staria-price.pdf
+three_model_equal_weight_diesel_proxy,0.177,kgCO2/km,혼합 인증연도,추정 적용,APPROVAL_REQUIRED_OLDER_PROXY,실제 서울 fleet 평균 아님; 차종별 대수·연료·총주행거리 확보 시 가중평균으로 교체,https://www.kia.com/content/dam/kwp/kr/ko/vehicles/pdf/price/price_4thcarnival.pdf | https://www.hyundai.com/content/dam/hyundai/kr/ko/data/vehicles/price/grandstarex-special-vehicle-price.pdf | https://www.hyundai.com/contents/repn-car/catalog/staria-price.pdf

@@ -1,0 +1,12 @@
+fleet_size:
+  value: null
+  status: WAITING_DATA
+dispatch_rule:
+  value: null
+  status: WAITING_DATA
+travel_time_source:
+  value: null
+  status: WAITING_DATA
+wait_time_definition:
+  value: null
+  status: WAITING_DATA

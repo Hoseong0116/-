@@ -1,0 +1,59 @@
+# Raw/derived data: private operational datasets stay local by default.
+# Only the explicitly listed public/reference CSV files below are shareable.
+01_raw_data/**/*.csv
+01_raw_data/**/*.xlsx
+01_raw_data/**/*.parquet
+02_processed_data/**/*.csv
+02_processed_data/**/*.parquet
+06_outputs/**/*.csv
+06_outputs/**/*.parquet
+06_outputs/**/*.png
+06_outputs/**/*.pdf
+06_outputs/**/*.html
+
+# Public source and model-reference tables reviewed for team sharing
+!01_raw_data/charging/서울시 소유 전기차 충전소 정보.csv
+!01_raw_data/profitability/2026-09-17/S04_member_fee_table_transcribed.csv
+!01_raw_data/ud_taxi/templates/ud_operation_master_template.csv
+!02_processed_data/carbon/carbon_factor_master.csv
+!02_processed_data/charging/charger_clean.csv
+!02_processed_data/vehicle/fleet_master.csv
+!02_processed_data/vehicle/pv5_spec.csv
+!02_processed_data/cost/electricity_price.csv
+!02_processed_data/cost/electricity_price_by_operator.csv
+!02_processed_data/cost/fuel_price.csv
+!02_processed_data/cost/operating_cost.csv
+!02_processed_data/cost/profitability_missing_requests.csv
+!02_processed_data/cost/profitability_parameters.csv
+!02_processed_data/cost/profitability_sources.csv
+!02_processed_data/cost/taxi_revenue_hourly.csv
+!02_processed_data/cost/vehicle_cost.csv
+!02_processed_data/model_inputs/carbon_factors_review.csv
+!02_processed_data/model_inputs/charger_inventory_prepared.csv
+!02_processed_data/model_inputs/model_readiness.csv
+!02_processed_data/model_inputs/pv5_vehicle_inputs.csv
+!02_processed_data/model_inputs/scenario_core.csv
+
+# Workbook previews and machine-generated inspection output
+outputs/**/*.png
+outputs/**/*.inspect.ndjson
+
+# Model artifacts and runtime files
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+node_modules/
+Thumbs.db
+.DS_Store
+
+# Keep folder layout in Git
+!01_raw_data/**/.gitkeep
+!02_processed_data/**/.gitkeep
+!06_outputs/**/.gitkeep

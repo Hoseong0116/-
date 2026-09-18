@@ -1,0 +1,7 @@
+rolling_horizon_minutes: null
+simulation_start: null
+simulation_end: null
+random_seed: null
+scenario: null
+travel_time_source: null
+notes: Set values only with documented source or explicitly labelled temporary assumption.

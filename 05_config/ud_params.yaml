@@ -1,0 +1,28 @@
+battery_kwh:
+  value: null
+  status: CONFIRMED
+  note: Enter only after recording the official source in SOURCE_MASTER.md.
+efficiency_km_per_kwh:
+  value: null
+  status: CONFIRMED
+official_range_km:
+  value: null
+  status: CONFIRMED
+charge_start_soc:
+  value: null
+  status: WAITING_DATA
+charge_end_soc:
+  value: null
+  status: WAITING_DATA
+daily_distance:
+  value: null
+  status: WAITING_DATA
+normal_taxi_revenue:
+  value: null
+  status: WAITING_DATA
+monthly_disabled_trip_target:
+  value: 100
+  status: CONFIRMED
+ud_vehicle_count:
+  value: 12
+  status: CONFIRMED

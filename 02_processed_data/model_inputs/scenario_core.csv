@@ -1,0 +1,3 @@
+﻿scenario,existing_fleet_count_assumed,existing_fleet_reference_year,existing_fleet_status,ud_fleet_count,ud_monthly_priority_completed_trips_per_vehicle,dynamic_dispatch,rolling_horizon_min,interpretation,source
+S0,854,2025,TEMPORARY_ASSUMPTION_FOR_2026,12,100,False,,차량별 완료 100건 후 일반영업 가능; 전환 세부시각 미확인,PROJECT_CONTEXT.md; 00_reference/policy/UD_POLICY_RULES.md; 02_processed_data/vehicle/fleet_master.csv
+S1,854,2025,TEMPORARY_ASSUMPTION_FOR_2026,12,,True,30,의무 100건 미적용; 장애인 서비스 제약 아래 동적 배차,PROJECT_CONTEXT.md; 00_reference/policy/UD_POLICY_RULES.md; 02_processed_data/vehicle/fleet_master.csv

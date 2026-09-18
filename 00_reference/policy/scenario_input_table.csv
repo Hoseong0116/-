@@ -1,0 +1,6 @@
+﻿scenario,existing_calltaxi,ud_taxi,monthly_100_rule,dynamic_dispatch,normal_service_condition,soc_floor,charge_start_soc,charge_end_soc,charger_count,disabled_priority_standard,target_avg_wait_min,target_p95_wait_min,dispatch_success_rate,disabled_trip_count,normal_service_hours,ud_search_grid,source_type,status,confidence,note
+S0,854,12,Y,N,차량별 월 장애인 100건 완료 후 해당 월 일반 중형택시로 전환,미확인,미확인,미확인,DATA,100건 전 중증보행장애인 회원 우선; 전환 후 공단 강제·우선배차 제외(장애인 일반 호출·현장 승차 가능),30,,OUTPUT,OUTPUT,OUTPUT,,PUBLIC_OFFICIAL+MEDIA_REPORT,부분확보,B,차량별 월간 완료건수는 매월 1일 0건 초기화; 초기화 시각·100건 달성 직후 전환 시점 미확인
+S1,854,12,N,Y,상태·기대수익·대기 제약 기반,0.1,0.2,0.8,DATA,평균/P95 대기 제약,30,60,OUTPUT,OUTPUT,OUTPUT,,ASSUMPTION,가정,D,SOC/P95 민감도
+S2,854,60,N,Y,상태·기대수익·대기 제약 기반,0.1,0.2,0.8,DATA,평균/P95 대기 제약,30,60,OUTPUT,OUTPUT,OUTPUT,,ASSUMPTION,가정,D,정책목표 아닌 실험값(12대×5)
+S3,854,120,N,Y,상태·기대수익·대기 제약 기반,0.1,0.2,0.8,DATA,평균/P95 대기 제약,30,60,OUTPUT,OUTPUT,OUTPUT,,ASSUMPTION,가정,D,정책목표 아닌 실험값(12대×10)
+S4,854,ENDOGENOUS,N,Y,상태·기대수익·대기 제약 기반,0.1,0.2,0.8,DATA,평균/P95 대기 제약,30,60,OUTPUT,OUTPUT,OUTPUT,12:12:240,ASSUMPTION,가정,D,+12대당 평균대기<1분 및 탄소<1% 개선 2회 연속 최초대수

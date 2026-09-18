@@ -1,0 +1,6 @@
+﻿﻿charger_class,power_min_kw,power_max_kw,value,unit,effective_date,operator_scope,source_name,source_url,source_type,analysis_use,status,confidence,note
+30kW 미만,0,30,295,won_per_kwh,2026-08-01,환경부 공공급속,무공해차 통합누리집 환경부 공공급속 충전요금,https://ev.or.kr/nportal/monitor/monitoringStationFee.do,PUBLIC_OFFICIAL,EV 원/km·충전비,확보,A,민간·완속·시간대/계절요금 별도 필요
+30~50kW 미만,30,50,307.2,won_per_kwh,2026-08-01,환경부 공공급속,무공해차 통합누리집 환경부 공공급속 충전요금,https://ev.or.kr/nportal/monitor/monitoringStationFee.do,PUBLIC_OFFICIAL,EV 원/km·충전비,확보,A,민간·완속·시간대/계절요금 별도 필요
+50~100kW 미만,50,100,325.6,won_per_kwh,2026-08-01,환경부 공공급속,무공해차 통합누리집 환경부 공공급속 충전요금,https://ev.or.kr/nportal/monitor/monitoringStationFee.do,PUBLIC_OFFICIAL,EV 원/km·충전비,확보,A,민간·완속·시간대/계절요금 별도 필요
+100~200kW 미만,100,200,348.4,won_per_kwh,2026-08-01,환경부 공공급속,무공해차 통합누리집 환경부 공공급속 충전요금,https://ev.or.kr/nportal/monitor/monitoringStationFee.do,PUBLIC_OFFICIAL,EV 원/km·충전비,확보,A,민간·완속·시간대/계절요금 별도 필요
+200kW 이상,200,,393.1,won_per_kwh,2026-08-01,환경부 공공급속,무공해차 통합누리집 환경부 공공급속 충전요금,https://ev.or.kr/nportal/monitor/monitoringStationFee.do,PUBLIC_OFFICIAL,EV 원/km·충전비,확보,A,민간·완속·시간대/계절요금 별도 필요
