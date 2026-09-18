@@ -45,6 +45,8 @@ outputs/**/*.inspect.ndjson
 00_reference/source_notes/
 07_report/submission/
 역할분담/
+00_reference/policy/scenario_input_table.csv
+07_report/methodology/모델 파이프라인.md
 
 # Model artifacts and runtime files
 *.pt
@@ -61,7 +63,8 @@ node_modules/
 Thumbs.db
 .DS_Store
 
-# Keep folder layout in Git
-!01_raw_data/**/.gitkeep
-!02_processed_data/**/.gitkeep
-!06_outputs/**/.gitkeep
+# Keep only the team handoff locations visible in Git.
+**/.gitkeep
+!01_raw_data/disabled_taxi/.gitkeep
+!01_raw_data/general_taxi/.gitkeep
+!01_raw_data/spatial/.gitkeep

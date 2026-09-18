@@ -4,7 +4,7 @@
 
 1. 원본은 `01_raw_data/`에 보존한다.
 2. 전처리 결과는 `02_processed_data/`에 Parquet 중심으로 저장한다.
-3. 구현과 결과는 각각 `04_src/`, `06_outputs/`에 둔다.
+3. 구현은 `04_src/`, 생성 결과는 실행 시 만드는 `06_outputs/`에 둔다.
 
 현재는 학습·시뮬레이션·정책효과 추정을 수행하지 않는다. 자료 상태는 [TODO.md](TODO.md), 변수 정의는 [DATA_DICTIONARY.md](DATA_DICTIONARY.md), 출처는 [SOURCE_MASTER.md](SOURCE_MASTER.md)를 따른다.
 

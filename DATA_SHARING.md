@@ -17,6 +17,8 @@
 
 논문 PDF, HWP 신청서, 웹페이지 HTML 복사본, 미리보기 이미지, 실행 캐시·가상환경은 이번 데이터 업로드 대상이 아니다. 공개자료의 원문 링크는 CSV의 `source_url`, `SOURCE_MASTER.md`, `02_processed_data/cost/profitability_sources.csv`에 있다. 재생성 전 원문을 내려받을 때에는 `03_scripts/profitability/collect_public_sources.py`를 사용한다.
 
+빈 폴더 표시는 팀원이 자료를 넣을 `01_raw_data/disabled_taxi/`, `general_taxi/`, `spatial/`만 유지한다. 중복 `.gitkeep`, 실행 시 생성할 `06_outputs/`의 빈 하위 폴더, 이전 증차 시나리오 표와 오래된 방법론 초안은 Git 공유 목록에서 제외했다. 로컬 파일은 보존했다. 현재 비교의 기준은 `PROJECT_CONTEXT.md`와 `02_processed_data/model_inputs/scenario_core.csv`다.
+
 ## 팀 파일을 합칠 때
 
 `02_processed_data/model_inputs/README.md`의 필수 열·키·단위에 맞춰 원본은 `01_raw_data`에 보존하고 새 가공 파일만 별도로 만든다. 2025 공식 fleet 854대와 출처 미확인 2026년 세부 집계는 서로 덮어쓰지 않는다. 2023년 전력·차종 대리계수는 승인 전 최종 계산에 투입하지 않는다.
