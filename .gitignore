@@ -38,6 +38,14 @@
 outputs/**/*.png
 outputs/**/*.inspect.ndjson
 
+# Local source copies and documents outside the team data package
+01_raw_data/profitability/**/*.html
+01_raw_data/profitability/**/*_text.txt
+00_reference/papers/
+00_reference/source_notes/
+07_report/submission/
+역할분담/
+
 # Model artifacts and runtime files
 *.pt
 *.pth
